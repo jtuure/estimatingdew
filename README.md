@@ -12,11 +12,11 @@ Test data for weather stations in Kumpula and Helsinki-Vantaa Airport is include
 Alternatively, you can just run the main.m script which runs all abovementioned. 
 
 ### Functions
-- convertToDoubleArray.m - converts an array from cell to double format
-- dailyMin.m - extracts the smallest value per day in a timeseries for a given timestep
-- dailySum.m - calculates the sum of e.g. daily dew accumulation from a timeseries
-- dewBeysens.m - Function for dew model as presented by Beysens (2016)
-- tdew.m - Function for calculating the dew point temperature
+- convertToDoubleArray.m - converts an array from cell to double format.
+- dailyMin.m - Extracts the smallest value per day in a timeseries for a given timestep.
+- dailySum.m - Calculates the sum of e.g. daily dew accumulation from a timeseries.
+- dewBeysens.m - Function for dew model as presented by Beysens (2016).
+- tdew.m - Function for calculating the dew point temperature.
 
 ### Elevations used in the calculations (acquired from Google Earth)  
 - Elevation of Kumpula 43 m.a.s.l
